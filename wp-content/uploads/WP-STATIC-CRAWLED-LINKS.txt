@@ -1,4 +1,5 @@
 /
+/blog/
 /blog/contact/
 /blog/gio-xuan-hoa-co-thom-ngat/
 /blog/how-to/
@@ -82,7 +83,6 @@
 /wp-content/uploads\2021\01\tonton-150x150.jpg
 /wp-content/uploads\2021\01\tonton.jpg
 /2021/01/
-/category/uncategorized/feed/
 /comments/feed/
 /feed/
 /wp-content/themes/receptar/assets/css/colors.css

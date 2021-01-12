@@ -1,6 +1,5 @@
 /
 /2021/01/
-/category/uncategorized/feed/
 /comments/feed/
 /contact/
 /feed/
@@ -24,4 +23,3 @@
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-includes/js/jquery/jquery.min.js
 /wp-json/
-/wp-json/wp/v2/categories/1
