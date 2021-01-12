@@ -1,0 +1,935 @@
+2021-01-12 04:27:37
+PHP VERSION 7.2.34
+OS VERSION Windows NT ADMIN 10.0 build 18363 (Windows 10) AMD64
+WP VERSION 5.6
+WP URL http://localhost:8888/blog
+WP SITEURL http://localhost:8888/blog
+WP HOME http://localhost:8888/blog
+WP ADDRESS http://localhost:8888/blog
+PLUGIN VERSION 6.6.7
+VIA WP-CLI? 
+STATIC EXPORT URL https://tonton69.github.io/tonton-blog-wp/
+PERMALINK STRUCTURE /%postname%/
+SERVER SOFTWARE Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.2.34
+Active plugins:
+package/wp2static.php
+simply-static/simply-static.php
+Plugin options:
+additionalUrls: 
+allowOfflineUsage: 
+baseHREF: 
+baseUrl: 
+baseUrl-bitbucket: 
+baseUrl-bunnycdn: 
+baseUrl-folder: 
+baseUrl-ftp: 
+baseUrl-github: 
+baseUrl-gitlab: 
+baseUrl-netlify: 
+baseUrl-s3: 
+baseUrl-zip: 
+baseUrl-zip: 
+basicAuthPassword: *******************
+basicAuthUser: 
+bbBranch: 
+bbPath: 
+bbRepo: 
+bbToken: *******************
+bunnycdnStorageZoneAccessKey: *******************
+bunnycdnPullZoneAccessKey: *******************
+bunnycdnPullZoneID: 
+bunnycdnStorageZoneName: 
+bunnycdnRemotePath: 
+cfDistributionId: 
+completionEmail: 
+crawl_delay: 
+crawl_increment: 
+crawlPort: 
+debug_mode: 
+detection_level: 
+delayBetweenAPICalls: 
+deployBatchSize: 
+excludeURLs: 
+ftpPassword: *******************
+ftpRemotePath: 
+ftpServer: 
+ftpPort: 
+ftpTLS: 
+ftpUsername: 
+ghBranch: 
+ghCommitMessage: 
+ghPath: 
+ghRepo: 
+ghToken: *******************
+glBranch: 
+glPath: 
+glProject: 
+glToken: *******************
+netlifyHeaders: 
+netlifyPersonalAccessToken: *******************
+netlifyRedirects: 
+netlifySiteID: 
+removeConditionalHeadComments: 1
+removeHTMLComments: 1
+removeWPLinks: 1
+removeWPMeta: 1
+rewrite_rules: 
+rename_rules: 
+s3Bucket: 
+s3Key: 
+s3Region: 
+s3RemotePath: 
+s3Secret: *******************
+selected_deployment_option: 
+targetFolder: 
+useActiveFTP: 
+useBaseHref: 
+useBasicAuth: 
+useRelativeURLs: 
+Installed extensions:
+Core
+bcmath
+calendar
+ctype
+date
+filter
+hash
+iconv
+json
+SPL
+pcre
+readline
+Reflection
+session
+standard
+mysqlnd
+tokenizer
+zip
+zlib
+libxml
+dom
+PDO
+bz2
+SimpleXML
+xml
+wddx
+xmlreader
+xmlwriter
+apache2handler
+openssl
+curl
+fileinfo
+gd
+gettext
+mbstring
+exif
+mysqli
+pdo_mysql
+pdo_sqlite
+Phar
+ftp
+Exclusion rules wp-json
+Crawling /
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/receptar/assets/fonts/genericons-neue/genericons-neue.css
+Adding discovered URL: /wp-content/themes/receptar/assets/css/starter.css
+Adding discovered URL: /wp-content/themes/receptar/assets/css/main.css
+Adding discovered URL: /wp-content/themes/receptar/assets/css/colors.css
+Adding discovered URL: /wp-content/themes/receptar/style.css
+Adding discovered URL: /wp-content/themes/receptar/assets/js/vendor/css-vars-ponyfill/css-vars-ponyfill.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /how-to/
+Adding discovered URL: /contact/
+Adding discovered URL: /projects/
+Adding discovered URL: /nho-em/
+Adding discovered URL: /gio-xuan-hoa-co-thom-ngat/
+Adding discovered URL: 
+Adding discovered URL: /2021/01/
+Adding discovered URL: /wp-content/uploads/2021/01/cropped-anh-bia-facebook-dep-goc-lam-viec.jpg
+Adding discovered URL: /wp-content/uploads/2021/01/tonton-150x150.jpg
+Adding discovered URL: /wp-content/uploads/2021/01/tonton.jpg
+Adding discovered URL: /wp-content/uploads/2021/01/login_arf8tu-150x150.jpg
+Adding discovered URL: /
+Adding discovered URL: /wp-content/themes/receptar/assets/js/scripts-global.js
+Adding discovered URL: /wp-content/themes/receptar/assets/js/skip-link-focus-fix.js
+SAVING / to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /blog/
+BAD RESPONSE STATUS (404): /blog/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /blog/contact/
+SAVING /blog/contact/ to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/blog/contact/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /blog/gio-xuan-hoa-co-thom-ngat/
+SAVING /blog/gio-xuan-hoa-co-thom-ngat/ to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/blog/gio-xuan-hoa-co-thom-ngat/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /blog/how-to/
+SAVING /blog/how-to/ to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/blog/how-to/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /blog/nho-em/
+SAVING /blog/nho-em/ to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/blog/nho-em/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /blog/projects/
+SAVING /blog/projects/ to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/blog/projects/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /category/uncategorized/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/receptar/assets/fonts/genericons-neue/genericons-neue.css
+Adding discovered URL: /wp-content/themes/receptar/assets/css/starter.css
+Adding discovered URL: /wp-content/themes/receptar/assets/css/main.css
+Adding discovered URL: /wp-content/themes/receptar/assets/css/colors.css
+Adding discovered URL: /wp-content/themes/receptar/style.css
+Adding discovered URL: /wp-content/themes/receptar/assets/js/vendor/css-vars-ponyfill/css-vars-ponyfill.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/categories/1
+Adding discovered URL: /
+Adding discovered URL: /how-to/
+Adding discovered URL: /contact/
+Adding discovered URL: /projects/
+Adding discovered URL: /nho-em/
+Adding discovered URL: /gio-xuan-hoa-co-thom-ngat/
+Adding discovered URL: 
+Adding discovered URL: /2021/01/
+Adding discovered URL: /wp-content/uploads/2021/01/tonton-150x150.jpg
+Adding discovered URL: /wp-content/uploads/2021/01/tonton.jpg
+Adding discovered URL: /wp-content/uploads/2021/01/login_arf8tu-150x150.jpg
+Adding discovered URL: /wp-content/themes/receptar/assets/js/scripts-global.js
+Adding discovered URL: /wp-content/themes/receptar/assets/js/skip-link-focus-fix.js
+SAVING /category/uncategorized/ to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/category/uncategorized/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/page/1
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /category/uncategorized/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/receptar/assets/fonts/genericons-neue/genericons-neue.css
+Adding discovered URL: /wp-content/themes/receptar/assets/css/starter.css
+Adding discovered URL: /wp-content/themes/receptar/assets/css/main.css
+Adding discovered URL: /wp-content/themes/receptar/assets/css/colors.css
+Adding discovered URL: /wp-content/themes/receptar/style.css
+Adding discovered URL: /wp-content/themes/receptar/assets/js/vendor/css-vars-ponyfill/css-vars-ponyfill.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/categories/1
+Adding discovered URL: /
+Adding discovered URL: /how-to/
+Adding discovered URL: /contact/
+Adding discovered URL: /projects/
+Adding discovered URL: /nho-em/
+Adding discovered URL: /gio-xuan-hoa-co-thom-ngat/
+Adding discovered URL: 
+Adding discovered URL: /2021/01/
+Adding discovered URL: /wp-content/uploads/2021/01/tonton-150x150.jpg
+Adding discovered URL: /wp-content/uploads/2021/01/tonton.jpg
+Adding discovered URL: /wp-content/uploads/2021/01/login_arf8tu-150x150.jpg
+Adding discovered URL: /wp-content/themes/receptar/assets/js/scripts-global.js
+Adding discovered URL: /wp-content/themes/receptar/assets/js/skip-link-focus-fix.js
+SAVING /category/uncategorized/page/1 to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/category/uncategorized/page/1/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /contact/
+SAVING /contact/ to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/\/contact/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /favicon.ico
+BAD RESPONSE STATUS (404): /favicon.ico
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /gio-xuan-hoa-co-thom-ngat/
+SAVING /gio-xuan-hoa-co-thom-ngat/ to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/\/gio-xuan-hoa-co-thom-ngat/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /how-to/
+SAVING /how-to/ to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/\/how-to/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /nho-em/
+SAVING /nho-em/ to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/\/nho-em/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /page/1
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/receptar/assets/fonts/genericons-neue/genericons-neue.css
+Adding discovered URL: /wp-content/themes/receptar/assets/css/starter.css
+Adding discovered URL: /wp-content/themes/receptar/assets/css/main.css
+Adding discovered URL: /wp-content/themes/receptar/assets/css/colors.css
+Adding discovered URL: /wp-content/themes/receptar/style.css
+Adding discovered URL: /wp-content/themes/receptar/assets/js/vendor/css-vars-ponyfill/css-vars-ponyfill.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /how-to/
+Adding discovered URL: /contact/
+Adding discovered URL: /projects/
+Adding discovered URL: /nho-em/
+Adding discovered URL: /gio-xuan-hoa-co-thom-ngat/
+Adding discovered URL: 
+Adding discovered URL: /2021/01/
+Adding discovered URL: /wp-content/uploads/2021/01/cropped-anh-bia-facebook-dep-goc-lam-viec.jpg
+Adding discovered URL: /wp-content/uploads/2021/01/tonton-150x150.jpg
+Adding discovered URL: /wp-content/uploads/2021/01/tonton.jpg
+Adding discovered URL: /wp-content/uploads/2021/01/login_arf8tu-150x150.jpg
+Adding discovered URL: /
+Adding discovered URL: /wp-content/themes/receptar/assets/js/scripts-global.js
+Adding discovered URL: /wp-content/themes/receptar/assets/js/skip-link-focus-fix.js
+SAVING /page/1 to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/page/1/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /pages/page/1
+BAD RESPONSE STATUS (404): /pages/page/1
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /projects/
+SAVING /projects/ to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/\/projects/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /robots.txt
+BAD RESPONSE STATUS (404): /robots.txt
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /sitemap.xml
+SAVING /sitemap.xml to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/\/sitemap.xml
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\css\beaver-builder-editor.css
+SAVING /wp-content/themes/receptar\assets\css\beaver-builder-editor.css to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\css/beaver-builder-editor.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\css\colors.css
+SAVING /wp-content/themes/receptar\assets\css\colors.css to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\css/colors.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\css\customizer.css
+SAVING /wp-content/themes/receptar\assets\css\customizer.css to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\css/customizer.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\css\editor-style.css
+SAVING /wp-content/themes/receptar\assets\css\editor-style.css to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\css/editor-style.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\css\main.css
+SAVING /wp-content/themes/receptar\assets\css\main.css to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\css/main.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\css\slick.css
+SAVING /wp-content/themes/receptar\assets\css\slick.css to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\css/slick.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\css\starter.css
+SAVING /wp-content/themes/receptar\assets\css\starter.css to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\css/starter.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\fonts\genericons-neue\Genericons-Neue.eot
+SAVING /wp-content/themes/receptar\assets\fonts\genericons-neue\Genericons-Neue.eot to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\fonts\genericons-neue/Genericons-Neue.eot
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\fonts\genericons-neue\Genericons-Neue.ttf
+SAVING /wp-content/themes/receptar\assets\fonts\genericons-neue\Genericons-Neue.ttf to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\fonts\genericons-neue/Genericons-Neue.ttf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\fonts\genericons-neue\Genericons-Neue.woff2
+SAVING /wp-content/themes/receptar\assets\fonts\genericons-neue\Genericons-Neue.woff2 to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\fonts\genericons-neue/Genericons-Neue.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\fonts\genericons-neue\genericons-neue.css
+SAVING /wp-content/themes/receptar\assets\fonts\genericons-neue\genericons-neue.css to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\fonts\genericons-neue/genericons-neue.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\images\featured.jpg
+SAVING /wp-content/themes/receptar\assets\images\featured.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\images/featured.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\images\header.jpg
+SAVING /wp-content/themes/receptar\assets\images\header.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\images/header.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\images\svg\social-icons.svg
+SAVING /wp-content/themes/receptar\assets\images\svg\social-icons.svg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\images\svg/social-icons.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\js\customizer-preview.js
+SAVING /wp-content/themes/receptar\assets\js\customizer-preview.js to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\js/customizer-preview.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\js\dev\slick.js
+SAVING /wp-content/themes/receptar\assets\js\dev\slick.js to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\js\dev/slick.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\js\scripts-global.js
+SAVING /wp-content/themes/receptar\assets\js\scripts-global.js to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\js/scripts-global.js
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\js\skip-link-focus-fix.js
+SAVING /wp-content/themes/receptar\assets\js\skip-link-focus-fix.js to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\js/skip-link-focus-fix.js
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\assets\js\slick.min.js
+SAVING /wp-content/themes/receptar\assets\js\slick.min.js to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar\assets\js/slick.min.js
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\screenshot.jpg
+SAVING /wp-content/themes/receptar\screenshot.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/screenshot.jpg
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar\style.css
+NOT SAVING EMTPY FILE /wp-content/themes/receptar\style.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\123123-150x150.jpg
+SAVING /wp-content/uploads\2021\01\123123-150x150.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/123123-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\123123-300x114.jpg
+SAVING /wp-content/uploads\2021\01\123123-300x114.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/123123-300x114.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\123123-768x292.jpg
+SAVING /wp-content/uploads\2021\01\123123-768x292.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/123123-768x292.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\123123.jpg
+SAVING /wp-content/uploads\2021\01\123123.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/123123.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\33833366_635135176831681_3528132595042746368_n-1024x1536.jpg
+SAVING /wp-content/uploads\2021\01\33833366_635135176831681_3528132595042746368_n-1024x1536.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/33833366_635135176831681_3528132595042746368_n-1024x1536.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\33833366_635135176831681_3528132595042746368_n-1365x640.jpg
+SAVING /wp-content/uploads\2021\01\33833366_635135176831681_3528132595042746368_n-1365x640.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/33833366_635135176831681_3528132595042746368_n-1365x640.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\33833366_635135176831681_3528132595042746368_n-150x150.jpg
+SAVING /wp-content/uploads\2021\01\33833366_635135176831681_3528132595042746368_n-150x150.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/33833366_635135176831681_3528132595042746368_n-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\33833366_635135176831681_3528132595042746368_n-200x300.jpg
+SAVING /wp-content/uploads\2021\01\33833366_635135176831681_3528132595042746368_n-200x300.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/33833366_635135176831681_3528132595042746368_n-200x300.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\33833366_635135176831681_3528132595042746368_n-683x1024.jpg
+SAVING /wp-content/uploads\2021\01\33833366_635135176831681_3528132595042746368_n-683x1024.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/33833366_635135176831681_3528132595042746368_n-683x1024.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\33833366_635135176831681_3528132595042746368_n-768x1152.jpg
+SAVING /wp-content/uploads\2021\01\33833366_635135176831681_3528132595042746368_n-768x1152.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/33833366_635135176831681_3528132595042746368_n-768x1152.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\33833366_635135176831681_3528132595042746368_n-960x640.jpg
+SAVING /wp-content/uploads\2021\01\33833366_635135176831681_3528132595042746368_n-960x640.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/33833366_635135176831681_3528132595042746368_n-960x640.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\33833366_635135176831681_3528132595042746368_n.jpg
+SAVING /wp-content/uploads\2021\01\33833366_635135176831681_3528132595042746368_n.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/33833366_635135176831681_3528132595042746368_n.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\anh-bia-facebook-dep-goc-lam-viec-150x150.jpg
+SAVING /wp-content/uploads\2021\01\anh-bia-facebook-dep-goc-lam-viec-150x150.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/anh-bia-facebook-dep-goc-lam-viec-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\anh-bia-facebook-dep-goc-lam-viec-300x114.jpg
+SAVING /wp-content/uploads\2021\01\anh-bia-facebook-dep-goc-lam-viec-300x114.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/anh-bia-facebook-dep-goc-lam-viec-300x114.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\anh-bia-facebook-dep-goc-lam-viec-768x292.jpg
+SAVING /wp-content/uploads\2021\01\anh-bia-facebook-dep-goc-lam-viec-768x292.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/anh-bia-facebook-dep-goc-lam-viec-768x292.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\anh-bia-facebook-dep-goc-lam-viec.jpg
+SAVING /wp-content/uploads\2021\01\anh-bia-facebook-dep-goc-lam-viec.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/anh-bia-facebook-dep-goc-lam-viec.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\anh-bia-work-hard-dream-big-150x150.jpg
+SAVING /wp-content/uploads\2021\01\anh-bia-work-hard-dream-big-150x150.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/anh-bia-work-hard-dream-big-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\anh-bia-work-hard-dream-big-300x114.jpg
+SAVING /wp-content/uploads\2021\01\anh-bia-work-hard-dream-big-300x114.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/anh-bia-work-hard-dream-big-300x114.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\anh-bia-work-hard-dream-big-768x292.jpg
+SAVING /wp-content/uploads\2021\01\anh-bia-work-hard-dream-big-768x292.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/anh-bia-work-hard-dream-big-768x292.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\anh-bia-work-hard-dream-big.jpg
+SAVING /wp-content/uploads\2021\01\anh-bia-work-hard-dream-big.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/anh-bia-work-hard-dream-big.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-123123-1024x342.jpg
+SAVING /wp-content/uploads\2021\01\cropped-123123-1024x342.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-123123-1024x342.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-123123-150x150.jpg
+SAVING /wp-content/uploads\2021\01\cropped-123123-150x150.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-123123-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-123123-1536x512.jpg
+SAVING /wp-content/uploads\2021\01\cropped-123123-1536x512.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-123123-1536x512.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-123123-300x100.jpg
+SAVING /wp-content/uploads\2021\01\cropped-123123-300x100.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-123123-300x100.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-123123-768x256.jpg
+SAVING /wp-content/uploads\2021\01\cropped-123123-768x256.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-123123-768x256.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-123123-960x640.jpg
+SAVING /wp-content/uploads\2021\01\cropped-123123-960x640.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-123123-960x640.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-123123.jpg
+SAVING /wp-content/uploads\2021\01\cropped-123123.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-123123.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-anh-bia-facebook-dep-goc-lam-viec-1024x342.jpg
+SAVING /wp-content/uploads\2021\01\cropped-anh-bia-facebook-dep-goc-lam-viec-1024x342.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-anh-bia-facebook-dep-goc-lam-viec-1024x342.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-anh-bia-facebook-dep-goc-lam-viec-150x150.jpg
+SAVING /wp-content/uploads\2021\01\cropped-anh-bia-facebook-dep-goc-lam-viec-150x150.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-anh-bia-facebook-dep-goc-lam-viec-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-anh-bia-facebook-dep-goc-lam-viec-1536x512.jpg
+SAVING /wp-content/uploads\2021\01\cropped-anh-bia-facebook-dep-goc-lam-viec-1536x512.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-anh-bia-facebook-dep-goc-lam-viec-1536x512.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-anh-bia-facebook-dep-goc-lam-viec-300x100.jpg
+SAVING /wp-content/uploads\2021\01\cropped-anh-bia-facebook-dep-goc-lam-viec-300x100.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-anh-bia-facebook-dep-goc-lam-viec-300x100.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-anh-bia-facebook-dep-goc-lam-viec-768x256.jpg
+SAVING /wp-content/uploads\2021\01\cropped-anh-bia-facebook-dep-goc-lam-viec-768x256.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-anh-bia-facebook-dep-goc-lam-viec-768x256.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-anh-bia-facebook-dep-goc-lam-viec-960x640.jpg
+SAVING /wp-content/uploads\2021\01\cropped-anh-bia-facebook-dep-goc-lam-viec-960x640.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-anh-bia-facebook-dep-goc-lam-viec-960x640.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-anh-bia-facebook-dep-goc-lam-viec.jpg
+SAVING /wp-content/uploads\2021\01\cropped-anh-bia-facebook-dep-goc-lam-viec.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-anh-bia-facebook-dep-goc-lam-viec.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-anh-bia-work-hard-dream-big-1024x342.jpg
+SAVING /wp-content/uploads\2021\01\cropped-anh-bia-work-hard-dream-big-1024x342.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-anh-bia-work-hard-dream-big-1024x342.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-anh-bia-work-hard-dream-big-150x150.jpg
+SAVING /wp-content/uploads\2021\01\cropped-anh-bia-work-hard-dream-big-150x150.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-anh-bia-work-hard-dream-big-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-anh-bia-work-hard-dream-big-1536x512.jpg
+SAVING /wp-content/uploads\2021\01\cropped-anh-bia-work-hard-dream-big-1536x512.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-anh-bia-work-hard-dream-big-1536x512.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-anh-bia-work-hard-dream-big-300x100.jpg
+SAVING /wp-content/uploads\2021\01\cropped-anh-bia-work-hard-dream-big-300x100.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-anh-bia-work-hard-dream-big-300x100.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-anh-bia-work-hard-dream-big-768x256.jpg
+SAVING /wp-content/uploads\2021\01\cropped-anh-bia-work-hard-dream-big-768x256.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-anh-bia-work-hard-dream-big-768x256.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-anh-bia-work-hard-dream-big-960x640.jpg
+SAVING /wp-content/uploads\2021\01\cropped-anh-bia-work-hard-dream-big-960x640.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-anh-bia-work-hard-dream-big-960x640.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\cropped-anh-bia-work-hard-dream-big.jpg
+SAVING /wp-content/uploads\2021\01\cropped-anh-bia-work-hard-dream-big.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/cropped-anh-bia-work-hard-dream-big.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\login_arf8tu-150x150.jpg
+SAVING /wp-content/uploads\2021\01\login_arf8tu-150x150.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/login_arf8tu-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\login_arf8tu-244x300.jpg
+SAVING /wp-content/uploads\2021\01\login_arf8tu-244x300.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/login_arf8tu-244x300.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\login_arf8tu-564x640.jpg
+SAVING /wp-content/uploads\2021\01\login_arf8tu-564x640.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/login_arf8tu-564x640.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\login_arf8tu.jpg
+SAVING /wp-content/uploads\2021\01\login_arf8tu.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/login_arf8tu.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\tonton-150x150.jpg
+SAVING /wp-content/uploads\2021\01\tonton-150x150.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/tonton-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2021\01\tonton.jpg
+SAVING /wp-content/uploads\2021\01\tonton.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads\2021\01/tonton.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /2021/01/
+SAVING /2021/01/ to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/2021/01/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/feed/
+SAVING /category/uncategorized/feed/ to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/category/uncategorized/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /comments/feed/
+SAVING /comments/feed/ to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/comments/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /feed/
+SAVING /feed/ to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/\/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar/assets/css/colors.css
+SAVING /wp-content/themes/receptar/assets/css/colors.css to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/css/colors.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar/assets/css/main.css
+SAVING /wp-content/themes/receptar/assets/css/main.css to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/css/main.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar/assets/css/starter.css
+SAVING /wp-content/themes/receptar/assets/css/starter.css to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/css/starter.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar/assets/fonts/genericons-neue/genericons-neue.css
+SAVING /wp-content/themes/receptar/assets/fonts/genericons-neue/genericons-neue.css to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/fonts/genericons-neue/genericons-neue.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar/assets/js/scripts-global.js
+SAVING /wp-content/themes/receptar/assets/js/scripts-global.js to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/js/scripts-global.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar/assets/js/skip-link-focus-fix.js
+SAVING /wp-content/themes/receptar/assets/js/skip-link-focus-fix.js to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/js/skip-link-focus-fix.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar/assets/js/vendor/css-vars-ponyfill/css-vars-ponyfill.min.js
+SAVING /wp-content/themes/receptar/assets/js/vendor/css-vars-ponyfill/css-vars-ponyfill.min.js to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/js/vendor/css-vars-ponyfill/css-vars-ponyfill.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/receptar/style.css
+NOT SAVING EMTPY FILE /wp-content/themes/receptar/style.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2021/01/cropped-anh-bia-facebook-dep-goc-lam-viec.jpg
+SAVING /wp-content/uploads/2021/01/cropped-anh-bia-facebook-dep-goc-lam-viec.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads/2021/01/cropped-anh-bia-facebook-dep-goc-lam-viec.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2021/01/login_arf8tu-150x150.jpg
+SAVING /wp-content/uploads/2021/01/login_arf8tu-150x150.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads/2021/01/login_arf8tu-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2021/01/tonton-150x150.jpg
+SAVING /wp-content/uploads/2021/01/tonton-150x150.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads/2021/01/tonton-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2021/01/tonton.jpg
+SAVING /wp-content/uploads/2021/01/tonton.jpg to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/uploads/2021/01/tonton.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-includes/css/dist/block-library/style.min.css
+SAVING /wp-includes/css/dist/block-library/style.min.css to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-includes/css/dist/block-library/style.min.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-includes/js/jquery/jquery-migrate.min.js
+SAVING /wp-includes/js/jquery/jquery-migrate.min.js to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-includes/js/jquery/jquery-migrate.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-includes/js/jquery/jquery.min.js
+SAVING /wp-includes/js/jquery/jquery.min.js to D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-includes/js/jquery/jquery.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Excluding /wp-json/ because of rule wp-json
+Exclusion rules wp-json
+Excluding /wp-json/wp/v2/categories/1 because of rule wp-json
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/2021/01/index.html to 2021/01/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"ff06ad4a5d1664dc32c8ac6a74174ec500b728a2","byteSize":15004}}}}
+2021/01/index.html path exists in GitHub
+Updating 2021/01/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"2021/01/index.html","sha":"ff06ad4a5d1664dc32c8ac6a74174ec500b728a2","size":15004,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/2021/01/index.html?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/2021/01/index.html","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/ff06ad4a5d1664dc32c8ac6a74174ec500b728a2","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/2021/01/index.html","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/2021/01/index.html?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/ff06ad4a5d1664dc32c8ac6a74174ec500b728a2","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/2021/01/index.html"}},"commit":{"sha":"57174f1fffc86d29c8e62ac99ea57460768b64f5","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjU3MTc0ZjFmZmZjODZkMjljOGU2MmFjOTllYTU3NDYwNzY4YjY0ZjU=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/57174f1fffc86d29c8e62ac99ea57460768b64f5","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/57174f1fffc86d29c8e62ac99ea57460768b64f5","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:06Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:06Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE 2021/01/index.html","parents":[{"sha":"4ec1fafed0c92bd5ea50f22dadc9ac5a1b69bfda","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/4ec1fafed0c92bd5ea50f22dadc9ac5a1b69bfda","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/4ec1fafed0c92bd5ea50f22dadc9ac5a1b69bfda"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/blog/contact/index.html to blog/contact/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"978eb90718338c53aebc6ec9a608f056e077b6be","byteSize":13296}}}}
+blog/contact/index.html path exists in GitHub
+Updating blog/contact/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"blog/contact/index.html","sha":"978eb90718338c53aebc6ec9a608f056e077b6be","size":13296,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/blog/contact/index.html?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/blog/contact/index.html","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/978eb90718338c53aebc6ec9a608f056e077b6be","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/blog/contact/index.html","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/blog/contact/index.html?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/978eb90718338c53aebc6ec9a608f056e077b6be","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/blog/contact/index.html"}},"commit":{"sha":"cb7a8a3bea3e70f5607c882f678074c789762e1a","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OmNiN2E4YTNiZWEzZTcwZjU2MDdjODgyZjY3ODA3NGM3ODk3NjJlMWE=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/cb7a8a3bea3e70f5607c882f678074c789762e1a","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/cb7a8a3bea3e70f5607c882f678074c789762e1a","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:09Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:09Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE blog/contact/index.html","parents":[{"sha":"57174f1fffc86d29c8e62ac99ea57460768b64f5","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/57174f1fffc86d29c8e62ac99ea57460768b64f5","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/57174f1fffc86d29c8e62ac99ea57460768b64f5"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/blog/gio-xuan-hoa-co-thom-ngat/index.html to blog/gio-xuan-hoa-co-thom-ngat/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"fb270f7f3bcbaccecbf22fd6f9bc107677cbcd35","byteSize":21974}}}}
+blog/gio-xuan-hoa-co-thom-ngat/index.html path exists in GitHub
+Updating blog/gio-xuan-hoa-co-thom-ngat/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"blog/gio-xuan-hoa-co-thom-ngat/index.html","sha":"fb270f7f3bcbaccecbf22fd6f9bc107677cbcd35","size":21974,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/blog/gio-xuan-hoa-co-thom-ngat/index.html?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/blog/gio-xuan-hoa-co-thom-ngat/index.html","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/fb270f7f3bcbaccecbf22fd6f9bc107677cbcd35","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/blog/gio-xuan-hoa-co-thom-ngat/index.html","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/blog/gio-xuan-hoa-co-thom-ngat/index.html?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/fb270f7f3bcbaccecbf22fd6f9bc107677cbcd35","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/blog/gio-xuan-hoa-co-thom-ngat/index.html"}},"commit":{"sha":"a45958a36d02d8b3db52c0389e245d1be4cde015","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OmE0NTk1OGEzNmQwMmQ4YjNkYjUyYzAzODllMjQ1ZDFiZTRjZGUwMTU=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/a45958a36d02d8b3db52c0389e245d1be4cde015","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/a45958a36d02d8b3db52c0389e245d1be4cde015","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:11Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:11Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE blog/gio-xuan-hoa-co-thom-ngat/index.html","parents":[{"sha":"cb7a8a3bea3e70f5607c882f678074c789762e1a","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/cb7a8a3bea3e70f5607c882f678074c789762e1a","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/cb7a8a3bea3e70f5607c882f678074c789762e1a"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/blog/how-to/index.html to blog/how-to/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"46bc6c97546c311a35aa016bdfc5349607fbecb2","byteSize":14183}}}}
+blog/how-to/index.html path exists in GitHub
+Updating blog/how-to/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"blog/how-to/index.html","sha":"46bc6c97546c311a35aa016bdfc5349607fbecb2","size":14183,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/blog/how-to/index.html?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/blog/how-to/index.html","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/46bc6c97546c311a35aa016bdfc5349607fbecb2","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/blog/how-to/index.html","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/blog/how-to/index.html?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/46bc6c97546c311a35aa016bdfc5349607fbecb2","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/blog/how-to/index.html"}},"commit":{"sha":"229ce086075efc4403dad71dacc7ab073c869257","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjIyOWNlMDg2MDc1ZWZjNDQwM2RhZDcxZGFjYzdhYjA3M2M4NjkyNTc=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/229ce086075efc4403dad71dacc7ab073c869257","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/229ce086075efc4403dad71dacc7ab073c869257","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:13Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:13Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE blog/how-to/index.html","parents":[{"sha":"a45958a36d02d8b3db52c0389e245d1be4cde015","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/a45958a36d02d8b3db52c0389e245d1be4cde015","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/a45958a36d02d8b3db52c0389e245d1be4cde015"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/blog/nho-em/index.html to blog/nho-em/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"bc3287c49745b942abf74508a4b2e6b736a698a9","byteSize":20029}}}}
+blog/nho-em/index.html path exists in GitHub
+Updating blog/nho-em/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"blog/nho-em/index.html","sha":"bc3287c49745b942abf74508a4b2e6b736a698a9","size":20029,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/blog/nho-em/index.html?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/blog/nho-em/index.html","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/bc3287c49745b942abf74508a4b2e6b736a698a9","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/blog/nho-em/index.html","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/blog/nho-em/index.html?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/bc3287c49745b942abf74508a4b2e6b736a698a9","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/blog/nho-em/index.html"}},"commit":{"sha":"4086f62bd0ef5b14cf4151993143e6d97e4af8d2","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjQwODZmNjJiZDBlZjViMTRjZjQxNTE5OTMxNDNlNmQ5N2U0YWY4ZDI=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/4086f62bd0ef5b14cf4151993143e6d97e4af8d2","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/4086f62bd0ef5b14cf4151993143e6d97e4af8d2","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:17Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:17Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE blog/nho-em/index.html","parents":[{"sha":"229ce086075efc4403dad71dacc7ab073c869257","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/229ce086075efc4403dad71dacc7ab073c869257","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/229ce086075efc4403dad71dacc7ab073c869257"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/blog/projects/index.html to blog/projects/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"98d4d411d9ade6e6efba5259fabd9d2d1c1a933a","byteSize":13265}}}}
+blog/projects/index.html path exists in GitHub
+Updating blog/projects/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"blog/projects/index.html","sha":"98d4d411d9ade6e6efba5259fabd9d2d1c1a933a","size":13265,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/blog/projects/index.html?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/blog/projects/index.html","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/98d4d411d9ade6e6efba5259fabd9d2d1c1a933a","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/blog/projects/index.html","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/blog/projects/index.html?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/98d4d411d9ade6e6efba5259fabd9d2d1c1a933a","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/blog/projects/index.html"}},"commit":{"sha":"4f65b9f8700f2a9f435c3ff383b74b8704b8672c","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjRmNjViOWY4NzAwZjJhOWY0MzVjM2ZmMzgzYjc0Yjg3MDRiODY3MmM=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/4f65b9f8700f2a9f435c3ff383b74b8704b8672c","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/4f65b9f8700f2a9f435c3ff383b74b8704b8672c","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:19Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:19Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE blog/projects/index.html","parents":[{"sha":"4086f62bd0ef5b14cf4151993143e6d97e4af8d2","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/4086f62bd0ef5b14cf4151993143e6d97e4af8d2","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/4086f62bd0ef5b14cf4151993143e6d97e4af8d2"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/category/uncategorized/feed/index.html to category/uncategorized/feed/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"08f36a95bfe7465ff7817572709f7eb6dacd8aa7","byteSize":5041}}}}
+category/uncategorized/feed/index.html path exists in GitHub
+Updating category/uncategorized/feed/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"category/uncategorized/feed/index.html","sha":"08f36a95bfe7465ff7817572709f7eb6dacd8aa7","size":5041,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/category/uncategorized/feed/index.html?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/category/uncategorized/feed/index.html","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/08f36a95bfe7465ff7817572709f7eb6dacd8aa7","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/category/uncategorized/feed/index.html","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/category/uncategorized/feed/index.html?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/08f36a95bfe7465ff7817572709f7eb6dacd8aa7","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/category/uncategorized/feed/index.html"}},"commit":{"sha":"b6745b3e67faed0dfc45a8c579eec460945f74c0","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OmI2NzQ1YjNlNjdmYWVkMGRmYzQ1YThjNTc5ZWVjNDYwOTQ1Zjc0YzA=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/b6745b3e67faed0dfc45a8c579eec460945f74c0","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/b6745b3e67faed0dfc45a8c579eec460945f74c0","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:21Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:21Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE category/uncategorized/feed/index.html","parents":[{"sha":"4f65b9f8700f2a9f435c3ff383b74b8704b8672c","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/4f65b9f8700f2a9f435c3ff383b74b8704b8672c","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/4f65b9f8700f2a9f435c3ff383b74b8704b8672c"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/category/uncategorized/index.html to category/uncategorized/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"65612097ee26d3ef9d5cb10d42946180339ee2f0","byteSize":11733}}}}
+category/uncategorized/index.html path exists in GitHub
+Updating category/uncategorized/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"category/uncategorized/index.html","sha":"65612097ee26d3ef9d5cb10d42946180339ee2f0","size":11733,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/category/uncategorized/index.html?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/category/uncategorized/index.html","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/65612097ee26d3ef9d5cb10d42946180339ee2f0","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/category/uncategorized/index.html","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/category/uncategorized/index.html?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/65612097ee26d3ef9d5cb10d42946180339ee2f0","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/category/uncategorized/index.html"}},"commit":{"sha":"92c443fa98253aec5339b97adb4875662531d668","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjkyYzQ0M2ZhOTgyNTNhZWM1MzM5Yjk3YWRiNDg3NTY2MjUzMWQ2Njg=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/92c443fa98253aec5339b97adb4875662531d668","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/92c443fa98253aec5339b97adb4875662531d668","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:22Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:22Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE category/uncategorized/index.html","parents":[{"sha":"b6745b3e67faed0dfc45a8c579eec460945f74c0","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/b6745b3e67faed0dfc45a8c579eec460945f74c0","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/b6745b3e67faed0dfc45a8c579eec460945f74c0"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/category/uncategorized/page/1/index.html to category/uncategorized/page/1/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"65612097ee26d3ef9d5cb10d42946180339ee2f0","byteSize":11733}}}}
+category/uncategorized/page/1/index.html path exists in GitHub
+Updating category/uncategorized/page/1/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"category/uncategorized/page/1/index.html","sha":"65612097ee26d3ef9d5cb10d42946180339ee2f0","size":11733,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/category/uncategorized/page/1/index.html?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/category/uncategorized/page/1/index.html","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/65612097ee26d3ef9d5cb10d42946180339ee2f0","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/category/uncategorized/page/1/index.html","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/category/uncategorized/page/1/index.html?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/65612097ee26d3ef9d5cb10d42946180339ee2f0","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/category/uncategorized/page/1/index.html"}},"commit":{"sha":"1b36f515370e23bed1e18814dfd2dab506391c96","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjFiMzZmNTE1MzcwZTIzYmVkMWUxODgxNGRmZDJkYWI1MDYzOTFjOTY=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/1b36f515370e23bed1e18814dfd2dab506391c96","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/1b36f515370e23bed1e18814dfd2dab506391c96","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:24Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:24Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE category/uncategorized/page/1/index.html","parents":[{"sha":"92c443fa98253aec5339b97adb4875662531d668","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/92c443fa98253aec5339b97adb4875662531d668","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/92c443fa98253aec5339b97adb4875662531d668"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/comments/feed/index.html to comments/feed/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"ce3a9f3cbf77d64889ee87d10b835a4f028abc1f","byteSize":1300}}}}
+comments/feed/index.html path exists in GitHub
+Updating comments/feed/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"comments/feed/index.html","sha":"ce3a9f3cbf77d64889ee87d10b835a4f028abc1f","size":1300,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/comments/feed/index.html?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/comments/feed/index.html","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/ce3a9f3cbf77d64889ee87d10b835a4f028abc1f","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/comments/feed/index.html","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/comments/feed/index.html?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/ce3a9f3cbf77d64889ee87d10b835a4f028abc1f","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/comments/feed/index.html"}},"commit":{"sha":"18fdb1429646346a8a6fdcd215cdee876e732b81","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjE4ZmRiMTQyOTY0NjM0NmE4YTZmZGNkMjE1Y2RlZTg3NmU3MzJiODE=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/18fdb1429646346a8a6fdcd215cdee876e732b81","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/18fdb1429646346a8a6fdcd215cdee876e732b81","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:26Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:26Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE comments/feed/index.html","parents":[{"sha":"1b36f515370e23bed1e18814dfd2dab506391c96","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/1b36f515370e23bed1e18814dfd2dab506391c96","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/1b36f515370e23bed1e18814dfd2dab506391c96"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/contact/index.html to contact/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"978eb90718338c53aebc6ec9a608f056e077b6be","byteSize":13296}}}}
+contact/index.html path exists in GitHub
+Updating contact/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"contact/index.html","sha":"978eb90718338c53aebc6ec9a608f056e077b6be","size":13296,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/contact/index.html?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/contact/index.html","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/978eb90718338c53aebc6ec9a608f056e077b6be","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/contact/index.html","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/contact/index.html?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/978eb90718338c53aebc6ec9a608f056e077b6be","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/contact/index.html"}},"commit":{"sha":"396fde9ebc489a9448859d6d418274f6ce569b9e","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjM5NmZkZTllYmM0ODlhOTQ0ODg1OWQ2ZDQxODI3NGY2Y2U1NjliOWU=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/396fde9ebc489a9448859d6d418274f6ce569b9e","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/396fde9ebc489a9448859d6d418274f6ce569b9e","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:35Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:35Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE contact/index.html","parents":[{"sha":"18fdb1429646346a8a6fdcd215cdee876e732b81","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/18fdb1429646346a8a6fdcd215cdee876e732b81","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/18fdb1429646346a8a6fdcd215cdee876e732b81"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/feed/index.html to feed/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"f4d39e7d745d976f9bff68034e092c581f28c526","byteSize":1228}}}}
+feed/index.html path exists in GitHub
+Updating feed/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"feed/index.html","sha":"f4d39e7d745d976f9bff68034e092c581f28c526","size":1228,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/feed/index.html?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/feed/index.html","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/f4d39e7d745d976f9bff68034e092c581f28c526","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/feed/index.html","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/feed/index.html?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/f4d39e7d745d976f9bff68034e092c581f28c526","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/feed/index.html"}},"commit":{"sha":"b0afbfc3b63f5dc96da07e8d579cd6eb9618e1e6","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OmIwYWZiZmMzYjYzZjVkYzk2ZGEwN2U4ZDU3OWNkNmViOTYxOGUxZTY=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/b0afbfc3b63f5dc96da07e8d579cd6eb9618e1e6","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/b0afbfc3b63f5dc96da07e8d579cd6eb9618e1e6","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:39Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:39Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE feed/index.html","parents":[{"sha":"396fde9ebc489a9448859d6d418274f6ce569b9e","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/396fde9ebc489a9448859d6d418274f6ce569b9e","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/396fde9ebc489a9448859d6d418274f6ce569b9e"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/gio-xuan-hoa-co-thom-ngat/index.html to gio-xuan-hoa-co-thom-ngat/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"fb270f7f3bcbaccecbf22fd6f9bc107677cbcd35","byteSize":21974}}}}
+gio-xuan-hoa-co-thom-ngat/index.html path exists in GitHub
+Updating gio-xuan-hoa-co-thom-ngat/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"gio-xuan-hoa-co-thom-ngat/index.html","sha":"fb270f7f3bcbaccecbf22fd6f9bc107677cbcd35","size":21974,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/gio-xuan-hoa-co-thom-ngat/index.html?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/gio-xuan-hoa-co-thom-ngat/index.html","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/fb270f7f3bcbaccecbf22fd6f9bc107677cbcd35","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/gio-xuan-hoa-co-thom-ngat/index.html","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/gio-xuan-hoa-co-thom-ngat/index.html?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/fb270f7f3bcbaccecbf22fd6f9bc107677cbcd35","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/gio-xuan-hoa-co-thom-ngat/index.html"}},"commit":{"sha":"56063d7f65c17f0c4d32fc7821665b64ecaf6863","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjU2MDYzZDdmNjVjMTdmMGM0ZDMyZmM3ODIxNjY1YjY0ZWNhZjY4NjM=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/56063d7f65c17f0c4d32fc7821665b64ecaf6863","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/56063d7f65c17f0c4d32fc7821665b64ecaf6863","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:42Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:42Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE gio-xuan-hoa-co-thom-ngat/index.html","parents":[{"sha":"b0afbfc3b63f5dc96da07e8d579cd6eb9618e1e6","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/b0afbfc3b63f5dc96da07e8d579cd6eb9618e1e6","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/b0afbfc3b63f5dc96da07e8d579cd6eb9618e1e6"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/how-to/index.html to how-to/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"46bc6c97546c311a35aa016bdfc5349607fbecb2","byteSize":14183}}}}
+how-to/index.html path exists in GitHub
+Updating how-to/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"how-to/index.html","sha":"46bc6c97546c311a35aa016bdfc5349607fbecb2","size":14183,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/how-to/index.html?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/how-to/index.html","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/46bc6c97546c311a35aa016bdfc5349607fbecb2","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/how-to/index.html","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/how-to/index.html?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/46bc6c97546c311a35aa016bdfc5349607fbecb2","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/how-to/index.html"}},"commit":{"sha":"13183456ea60042d700084fb17d16a6d5c212337","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjEzMTgzNDU2ZWE2MDA0MmQ3MDAwODRmYjE3ZDE2YTZkNWMyMTIzMzc=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/13183456ea60042d700084fb17d16a6d5c212337","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/13183456ea60042d700084fb17d16a6d5c212337","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:44Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:44Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE how-to/index.html","parents":[{"sha":"56063d7f65c17f0c4d32fc7821665b64ecaf6863","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/56063d7f65c17f0c4d32fc7821665b64ecaf6863","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/56063d7f65c17f0c4d32fc7821665b64ecaf6863"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/index.html to index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"1e56c8365e642d19ff0c3e1bab9768127be3c3c7","byteSize":11728}}}}
+index.html path exists in GitHub
+Updating index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"index.html","sha":"1e56c8365e642d19ff0c3e1bab9768127be3c3c7","size":11728,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/index.html?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/index.html","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/1e56c8365e642d19ff0c3e1bab9768127be3c3c7","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/index.html","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/index.html?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/1e56c8365e642d19ff0c3e1bab9768127be3c3c7","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/index.html"}},"commit":{"sha":"9052843c8d73ec5e77ae57871ca8504987f8d553","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjkwNTI4NDNjOGQ3M2VjNWU3N2FlNTc4NzFjYTg1MDQ5ODdmOGQ1NTM=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/9052843c8d73ec5e77ae57871ca8504987f8d553","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/9052843c8d73ec5e77ae57871ca8504987f8d553","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:45Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:45Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE index.html","parents":[{"sha":"13183456ea60042d700084fb17d16a6d5c212337","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/13183456ea60042d700084fb17d16a6d5c212337","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/13183456ea60042d700084fb17d16a6d5c212337"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/nho-em/index.html to nho-em/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"bc3287c49745b942abf74508a4b2e6b736a698a9","byteSize":20029}}}}
+nho-em/index.html path exists in GitHub
+Updating nho-em/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"nho-em/index.html","sha":"bc3287c49745b942abf74508a4b2e6b736a698a9","size":20029,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/nho-em/index.html?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/nho-em/index.html","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/bc3287c49745b942abf74508a4b2e6b736a698a9","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/nho-em/index.html","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/nho-em/index.html?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/bc3287c49745b942abf74508a4b2e6b736a698a9","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/nho-em/index.html"}},"commit":{"sha":"c32268b2b8dc3dce3908298ecbf4a4c80e3c0497","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OmMzMjI2OGIyYjhkYzNkY2UzOTA4Mjk4ZWNiZjRhNGM4MGUzYzA0OTc=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/c32268b2b8dc3dce3908298ecbf4a4c80e3c0497","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/c32268b2b8dc3dce3908298ecbf4a4c80e3c0497","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:47Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:47Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE nho-em/index.html","parents":[{"sha":"9052843c8d73ec5e77ae57871ca8504987f8d553","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/9052843c8d73ec5e77ae57871ca8504987f8d553","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/9052843c8d73ec5e77ae57871ca8504987f8d553"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/page/1/index.html to page/1/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"1e56c8365e642d19ff0c3e1bab9768127be3c3c7","byteSize":11728}}}}
+page/1/index.html path exists in GitHub
+Updating page/1/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"page/1/index.html","sha":"1e56c8365e642d19ff0c3e1bab9768127be3c3c7","size":11728,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/page/1/index.html?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/page/1/index.html","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/1e56c8365e642d19ff0c3e1bab9768127be3c3c7","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/page/1/index.html","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/page/1/index.html?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/1e56c8365e642d19ff0c3e1bab9768127be3c3c7","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/page/1/index.html"}},"commit":{"sha":"eb7296bfc1c79ba3f2cfef79a6c856a163f5633f","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OmViNzI5NmJmYzFjNzliYTNmMmNmZWY3OWE2Yzg1NmExNjNmNTYzM2Y=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/eb7296bfc1c79ba3f2cfef79a6c856a163f5633f","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/eb7296bfc1c79ba3f2cfef79a6c856a163f5633f","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:49Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:49Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE page/1/index.html","parents":[{"sha":"c32268b2b8dc3dce3908298ecbf4a4c80e3c0497","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/c32268b2b8dc3dce3908298ecbf4a4c80e3c0497","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/c32268b2b8dc3dce3908298ecbf4a4c80e3c0497"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/projects/index.html to projects/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"98d4d411d9ade6e6efba5259fabd9d2d1c1a933a","byteSize":13265}}}}
+projects/index.html path exists in GitHub
+Updating projects/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"projects/index.html","sha":"98d4d411d9ade6e6efba5259fabd9d2d1c1a933a","size":13265,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/projects/index.html?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/projects/index.html","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/98d4d411d9ade6e6efba5259fabd9d2d1c1a933a","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/projects/index.html","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/projects/index.html?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/98d4d411d9ade6e6efba5259fabd9d2d1c1a933a","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/projects/index.html"}},"commit":{"sha":"e09fca2949d2455102ecbf059dfa7a2dbef6ddfd","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OmUwOWZjYTI5NDlkMjQ1NTEwMmVjYmYwNTlkZmE3YTJkYmVmNmRkZmQ=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/e09fca2949d2455102ecbf059dfa7a2dbef6ddfd","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/e09fca2949d2455102ecbf059dfa7a2dbef6ddfd","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:51Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:51Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE projects/index.html","parents":[{"sha":"eb7296bfc1c79ba3f2cfef79a6c856a163f5633f","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/eb7296bfc1c79ba3f2cfef79a6c856a163f5633f","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/eb7296bfc1c79ba3f2cfef79a6c856a163f5633f"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/sitemap.xml to sitemap.xml in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"aef60c24ef20a57e0a9b7a0950754b2acef73289","byteSize":627}}}}
+sitemap.xml path exists in GitHub
+Updating sitemap.xml in GitHub
+API response code 200
+API response body {"content":{"name":"sitemap.xml","path":"sitemap.xml","sha":"aef60c24ef20a57e0a9b7a0950754b2acef73289","size":627,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/sitemap.xml?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/sitemap.xml","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/aef60c24ef20a57e0a9b7a0950754b2acef73289","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/sitemap.xml","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/sitemap.xml?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/aef60c24ef20a57e0a9b7a0950754b2acef73289","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/sitemap.xml"}},"commit":{"sha":"430ac12f15f84b37a67d66883e5ef011f723ea58","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjQzMGFjMTJmMTVmODRiMzdhNjdkNjY4ODNlNWVmMDExZjcyM2VhNTg=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/430ac12f15f84b37a67d66883e5ef011f723ea58","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/430ac12f15f84b37a67d66883e5ef011f723ea58","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:53Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:53Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE sitemap.xml","parents":[{"sha":"e09fca2949d2455102ecbf059dfa7a2dbef6ddfd","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/e09fca2949d2455102ecbf059dfa7a2dbef6ddfd","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/e09fca2949d2455102ecbf059dfa7a2dbef6ddfd"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/css/beaver-builder-editor.css to wp-content/themes/receptar/assets/css/beaver-builder-editor.css in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"5fca99f3e000555f8c0dd37f13bf8fb7e58804b6","byteSize":101}}}}
+wp-content/themes/receptar/assets/css/beaver-builder-editor.css path exists in GitHub
+Updating wp-content/themes/receptar/assets/css/beaver-builder-editor.css in GitHub
+API response code 200
+API response body {"content":{"name":"beaver-builder-editor.css","path":"wp-content/themes/receptar/assets/css/beaver-builder-editor.css","sha":"5fca99f3e000555f8c0dd37f13bf8fb7e58804b6","size":101,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/css/beaver-builder-editor.css?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/css/beaver-builder-editor.css","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/5fca99f3e000555f8c0dd37f13bf8fb7e58804b6","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/css/beaver-builder-editor.css","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/css/beaver-builder-editor.css?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/5fca99f3e000555f8c0dd37f13bf8fb7e58804b6","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/css/beaver-builder-editor.css"}},"commit":{"sha":"6aa659bc3f2d0d03b51cfe47d9fc8c5254c867c0","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjZhYTY1OWJjM2YyZDBkMDNiNTFjZmU0N2Q5ZmM4YzUyNTRjODY3YzA=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/6aa659bc3f2d0d03b51cfe47d9fc8c5254c867c0","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/6aa659bc3f2d0d03b51cfe47d9fc8c5254c867c0","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:54Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:54Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/css/beaver-builder-editor.css","parents":[{"sha":"430ac12f15f84b37a67d66883e5ef011f723ea58","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/430ac12f15f84b37a67d66883e5ef011f723ea58","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/430ac12f15f84b37a67d66883e5ef011f723ea58"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/css/colors.css to wp-content/themes/receptar/assets/css/colors.css in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"58b21cf78253ca29c4e045e4eb8bb5ca50ac3369","byteSize":7378}}}}
+wp-content/themes/receptar/assets/css/colors.css path exists in GitHub
+Updating wp-content/themes/receptar/assets/css/colors.css in GitHub
+API response code 200
+API response body {"content":{"name":"colors.css","path":"wp-content/themes/receptar/assets/css/colors.css","sha":"58b21cf78253ca29c4e045e4eb8bb5ca50ac3369","size":7378,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/css/colors.css?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/css/colors.css","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/58b21cf78253ca29c4e045e4eb8bb5ca50ac3369","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/css/colors.css","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/css/colors.css?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/58b21cf78253ca29c4e045e4eb8bb5ca50ac3369","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/css/colors.css"}},"commit":{"sha":"3e7d4ad52bbaa54cf02f9d31aa20175be4c4357e","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjNlN2Q0YWQ1MmJiYWE1NGNmMDJmOWQzMWFhMjAxNzViZTRjNDM1N2U=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/3e7d4ad52bbaa54cf02f9d31aa20175be4c4357e","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/3e7d4ad52bbaa54cf02f9d31aa20175be4c4357e","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:56Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:56Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/css/colors.css","parents":[{"sha":"6aa659bc3f2d0d03b51cfe47d9fc8c5254c867c0","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/6aa659bc3f2d0d03b51cfe47d9fc8c5254c867c0","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/6aa659bc3f2d0d03b51cfe47d9fc8c5254c867c0"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/css/customizer.css to wp-content/themes/receptar/assets/css/customizer.css in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"720e895534ce9b11519399bfbdfbf44037538bf7","byteSize":5919}}}}
+wp-content/themes/receptar/assets/css/customizer.css path exists in GitHub
+Updating wp-content/themes/receptar/assets/css/customizer.css in GitHub
+API response code 200
+API response body {"content":{"name":"customizer.css","path":"wp-content/themes/receptar/assets/css/customizer.css","sha":"720e895534ce9b11519399bfbdfbf44037538bf7","size":5919,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/css/customizer.css?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/css/customizer.css","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/720e895534ce9b11519399bfbdfbf44037538bf7","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/css/customizer.css","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/css/customizer.css?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/720e895534ce9b11519399bfbdfbf44037538bf7","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/css/customizer.css"}},"commit":{"sha":"0aa2d41e9667ad562b9cffde1f49be0a0192f1bf","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjBhYTJkNDFlOTY2N2FkNTYyYjljZmZkZTFmNDliZTBhMDE5MmYxYmY=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/0aa2d41e9667ad562b9cffde1f49be0a0192f1bf","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/0aa2d41e9667ad562b9cffde1f49be0a0192f1bf","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:58Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:28:58Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/css/customizer.css","parents":[{"sha":"3e7d4ad52bbaa54cf02f9d31aa20175be4c4357e","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/3e7d4ad52bbaa54cf02f9d31aa20175be4c4357e","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/3e7d4ad52bbaa54cf02f9d31aa20175be4c4357e"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/css/editor-style.css to wp-content/themes/receptar/assets/css/editor-style.css in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"3cf156c03fcf947522b81ee9382d7771a597f69a","byteSize":2591}}}}
+wp-content/themes/receptar/assets/css/editor-style.css path exists in GitHub
+Updating wp-content/themes/receptar/assets/css/editor-style.css in GitHub
+API response code 200
+API response body {"content":{"name":"editor-style.css","path":"wp-content/themes/receptar/assets/css/editor-style.css","sha":"3cf156c03fcf947522b81ee9382d7771a597f69a","size":2591,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/css/editor-style.css?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/css/editor-style.css","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/3cf156c03fcf947522b81ee9382d7771a597f69a","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/css/editor-style.css","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/css/editor-style.css?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/3cf156c03fcf947522b81ee9382d7771a597f69a","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/css/editor-style.css"}},"commit":{"sha":"df5fa333b1ad14853b9ce743b30720f083be157f","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OmRmNWZhMzMzYjFhZDE0ODUzYjljZTc0M2IzMDcyMGYwODNiZTE1N2Y=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/df5fa333b1ad14853b9ce743b30720f083be157f","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/df5fa333b1ad14853b9ce743b30720f083be157f","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:00Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:00Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/css/editor-style.css","parents":[{"sha":"0aa2d41e9667ad562b9cffde1f49be0a0192f1bf","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/0aa2d41e9667ad562b9cffde1f49be0a0192f1bf","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/0aa2d41e9667ad562b9cffde1f49be0a0192f1bf"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/css/main.css to wp-content/themes/receptar/assets/css/main.css in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"077fc6ad9d7fa01cfad749f5a2ccb8698e19009c","byteSize":30010}}}}
+wp-content/themes/receptar/assets/css/main.css path exists in GitHub
+Updating wp-content/themes/receptar/assets/css/main.css in GitHub
+API response code 200
+API response body {"content":{"name":"main.css","path":"wp-content/themes/receptar/assets/css/main.css","sha":"077fc6ad9d7fa01cfad749f5a2ccb8698e19009c","size":30010,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/css/main.css?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/css/main.css","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/077fc6ad9d7fa01cfad749f5a2ccb8698e19009c","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/css/main.css","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/css/main.css?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/077fc6ad9d7fa01cfad749f5a2ccb8698e19009c","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/css/main.css"}},"commit":{"sha":"50f4ded6791e9320b604f6060905fb46f751aa83","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjUwZjRkZWQ2NzkxZTkzMjBiNjA0ZjYwNjA5MDVmYjQ2Zjc1MWFhODM=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/50f4ded6791e9320b604f6060905fb46f751aa83","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/50f4ded6791e9320b604f6060905fb46f751aa83","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:02Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:02Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/css/main.css","parents":[{"sha":"df5fa333b1ad14853b9ce743b30720f083be157f","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/df5fa333b1ad14853b9ce743b30720f083be157f","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/df5fa333b1ad14853b9ce743b30720f083be157f"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/css/slick.css to wp-content/themes/receptar/assets/css/slick.css in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"848b3964f7f3dfa2b552a9e0e08532e4c11cc5a5","byteSize":2747}}}}
+wp-content/themes/receptar/assets/css/slick.css path exists in GitHub
+Updating wp-content/themes/receptar/assets/css/slick.css in GitHub
+API response code 200
+API response body {"content":{"name":"slick.css","path":"wp-content/themes/receptar/assets/css/slick.css","sha":"848b3964f7f3dfa2b552a9e0e08532e4c11cc5a5","size":2747,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/css/slick.css?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/css/slick.css","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/848b3964f7f3dfa2b552a9e0e08532e4c11cc5a5","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/css/slick.css","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/css/slick.css?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/848b3964f7f3dfa2b552a9e0e08532e4c11cc5a5","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/css/slick.css"}},"commit":{"sha":"1af4d78a09f5fba755b00f7a83206ef830063044","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjFhZjRkNzhhMDlmNWZiYTc1NWIwMGY3YTgzMjA2ZWY4MzAwNjMwNDQ=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/1af4d78a09f5fba755b00f7a83206ef830063044","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/1af4d78a09f5fba755b00f7a83206ef830063044","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:05Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:05Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/css/slick.css","parents":[{"sha":"50f4ded6791e9320b604f6060905fb46f751aa83","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/50f4ded6791e9320b604f6060905fb46f751aa83","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/50f4ded6791e9320b604f6060905fb46f751aa83"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/css/starter.css to wp-content/themes/receptar/assets/css/starter.css in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"1059d140c5ad76b44c60c3d4132abe6ab4840e85","byteSize":25754}}}}
+wp-content/themes/receptar/assets/css/starter.css path exists in GitHub
+Updating wp-content/themes/receptar/assets/css/starter.css in GitHub
+API response code 200
+API response body {"content":{"name":"starter.css","path":"wp-content/themes/receptar/assets/css/starter.css","sha":"1059d140c5ad76b44c60c3d4132abe6ab4840e85","size":25754,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/css/starter.css?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/css/starter.css","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/1059d140c5ad76b44c60c3d4132abe6ab4840e85","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/css/starter.css","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/css/starter.css?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/1059d140c5ad76b44c60c3d4132abe6ab4840e85","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/css/starter.css"}},"commit":{"sha":"4e46009e45e16e22386e18959f5642c7ce2b9796","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjRlNDYwMDllNDVlMTZlMjIzODZlMTg5NTlmNTY0MmM3Y2UyYjk3OTY=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/4e46009e45e16e22386e18959f5642c7ce2b9796","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/4e46009e45e16e22386e18959f5642c7ce2b9796","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:06Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:06Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/css/starter.css","parents":[{"sha":"1af4d78a09f5fba755b00f7a83206ef830063044","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/1af4d78a09f5fba755b00f7a83206ef830063044","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/1af4d78a09f5fba755b00f7a83206ef830063044"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.eot to wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.eot in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"13964e2b4086a85db6a366e6d02dd6f54274cc2b","byteSize":21596}}}}
+wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.eot path exists in GitHub
+Updating wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.eot in GitHub
+API response code 200
+API response body {"content":{"name":"Genericons-Neue.eot","path":"wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.eot","sha":"13964e2b4086a85db6a366e6d02dd6f54274cc2b","size":21596,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.eot?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.eot","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/13964e2b4086a85db6a366e6d02dd6f54274cc2b","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.eot","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.eot?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/13964e2b4086a85db6a366e6d02dd6f54274cc2b","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.eot"}},"commit":{"sha":"19434f22cfc3090ad1e6e0d92b0be16dea56d9cd","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjE5NDM0ZjIyY2ZjMzA5MGFkMWU2ZTBkOTJiMGJlMTZkZWE1NmQ5Y2Q=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/19434f22cfc3090ad1e6e0d92b0be16dea56d9cd","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/19434f22cfc3090ad1e6e0d92b0be16dea56d9cd","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:09Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:09Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.eot","parents":[{"sha":"4e46009e45e16e22386e18959f5642c7ce2b9796","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/4e46009e45e16e22386e18959f5642c7ce2b9796","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/4e46009e45e16e22386e18959f5642c7ce2b9796"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.ttf to wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.ttf in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"19c344a014fa40ed43714a71dcd77883704161cc","byteSize":21396}}}}
+wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.ttf path exists in GitHub
+Updating wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.ttf in GitHub
+API response code 200
+API response body {"content":{"name":"Genericons-Neue.ttf","path":"wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.ttf","sha":"19c344a014fa40ed43714a71dcd77883704161cc","size":21396,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.ttf?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.ttf","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/19c344a014fa40ed43714a71dcd77883704161cc","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.ttf","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.ttf?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/19c344a014fa40ed43714a71dcd77883704161cc","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.ttf"}},"commit":{"sha":"96eaf11a3c398b6dc8b69705dbb2eebd414b2792","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0Ojk2ZWFmMTFhM2MzOThiNmRjOGI2OTcwNWRiYjJlZWJkNDE0YjI3OTI=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/96eaf11a3c398b6dc8b69705dbb2eebd414b2792","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/96eaf11a3c398b6dc8b69705dbb2eebd414b2792","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:11Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:11Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.ttf","parents":[{"sha":"19434f22cfc3090ad1e6e0d92b0be16dea56d9cd","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/19434f22cfc3090ad1e6e0d92b0be16dea56d9cd","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/19434f22cfc3090ad1e6e0d92b0be16dea56d9cd"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.woff2 to wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.woff2 in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"700ceddde2ae42c1f156fb45c7948309ece7c5d4","byteSize":10208}}}}
+wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.woff2 path exists in GitHub
+Updating wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.woff2 in GitHub
+API response code 200
+API response body {"content":{"name":"Genericons-Neue.woff2","path":"wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.woff2","sha":"700ceddde2ae42c1f156fb45c7948309ece7c5d4","size":10208,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.woff2?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.woff2","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/700ceddde2ae42c1f156fb45c7948309ece7c5d4","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.woff2","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.woff2?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/700ceddde2ae42c1f156fb45c7948309ece7c5d4","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.woff2"}},"commit":{"sha":"b2978dd8987aa90ce58b9c67509b188149294056","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OmIyOTc4ZGQ4OTg3YWE5MGNlNThiOWM2NzUwOWIxODgxNDkyOTQwNTY=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/b2978dd8987aa90ce58b9c67509b188149294056","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/b2978dd8987aa90ce58b9c67509b188149294056","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:14Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:14Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/fonts/genericons-neue/Genericons-Neue.woff2","parents":[{"sha":"96eaf11a3c398b6dc8b69705dbb2eebd414b2792","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/96eaf11a3c398b6dc8b69705dbb2eebd414b2792","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/96eaf11a3c398b6dc8b69705dbb2eebd414b2792"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/fonts/genericons-neue/genericons-neue.css to wp-content/themes/receptar/assets/fonts/genericons-neue/genericons-neue.css in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"bc4eeacf659a4dc1cd48a85c22439610b8eb9383","byteSize":23389}}}}
+wp-content/themes/receptar/assets/fonts/genericons-neue/genericons-neue.css path exists in GitHub
+Updating wp-content/themes/receptar/assets/fonts/genericons-neue/genericons-neue.css in GitHub
+API response code 200
+API response body {"content":{"name":"genericons-neue.css","path":"wp-content/themes/receptar/assets/fonts/genericons-neue/genericons-neue.css","sha":"bc4eeacf659a4dc1cd48a85c22439610b8eb9383","size":23389,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/fonts/genericons-neue/genericons-neue.css?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/fonts/genericons-neue/genericons-neue.css","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/bc4eeacf659a4dc1cd48a85c22439610b8eb9383","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/fonts/genericons-neue/genericons-neue.css","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/fonts/genericons-neue/genericons-neue.css?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/bc4eeacf659a4dc1cd48a85c22439610b8eb9383","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/fonts/genericons-neue/genericons-neue.css"}},"commit":{"sha":"5323a0ca54d9172e1ee8c9dc4640e1d3994b5607","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjUzMjNhMGNhNTRkOTE3MmUxZWU4YzlkYzQ2NDBlMWQzOTk0YjU2MDc=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/5323a0ca54d9172e1ee8c9dc4640e1d3994b5607","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/5323a0ca54d9172e1ee8c9dc4640e1d3994b5607","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:16Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:16Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/fonts/genericons-neue/genericons-neue.css","parents":[{"sha":"b2978dd8987aa90ce58b9c67509b188149294056","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/b2978dd8987aa90ce58b9c67509b188149294056","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/b2978dd8987aa90ce58b9c67509b188149294056"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/images/featured.jpg to wp-content/themes/receptar/assets/images/featured.jpg in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"af377b05a86ccf9a33ee3f0e73c36645db77f751","byteSize":102073}}}}
+wp-content/themes/receptar/assets/images/featured.jpg path exists in GitHub
+Updating wp-content/themes/receptar/assets/images/featured.jpg in GitHub
+API response code 200
+API response body {"content":{"name":"featured.jpg","path":"wp-content/themes/receptar/assets/images/featured.jpg","sha":"af377b05a86ccf9a33ee3f0e73c36645db77f751","size":102073,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/images/featured.jpg?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/images/featured.jpg","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/af377b05a86ccf9a33ee3f0e73c36645db77f751","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/images/featured.jpg","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/images/featured.jpg?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/af377b05a86ccf9a33ee3f0e73c36645db77f751","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/images/featured.jpg"}},"commit":{"sha":"955ed450b5238885eded9169775333063de3c77f","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0Ojk1NWVkNDUwYjUyMzg4ODVlZGVkOTE2OTc3NTMzMzA2M2RlM2M3N2Y=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/955ed450b5238885eded9169775333063de3c77f","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/955ed450b5238885eded9169775333063de3c77f","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:19Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:19Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/images/featured.jpg","parents":[{"sha":"5323a0ca54d9172e1ee8c9dc4640e1d3994b5607","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/5323a0ca54d9172e1ee8c9dc4640e1d3994b5607","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/5323a0ca54d9172e1ee8c9dc4640e1d3994b5607"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/images/header.jpg to wp-content/themes/receptar/assets/images/header.jpg in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"8fc57d5c262b4dd1e885de1b44b75811c83117e0","byteSize":101851}}}}
+wp-content/themes/receptar/assets/images/header.jpg path exists in GitHub
+Updating wp-content/themes/receptar/assets/images/header.jpg in GitHub
+API response code 200
+API response body {"content":{"name":"header.jpg","path":"wp-content/themes/receptar/assets/images/header.jpg","sha":"8fc57d5c262b4dd1e885de1b44b75811c83117e0","size":101851,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/images/header.jpg?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/images/header.jpg","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/8fc57d5c262b4dd1e885de1b44b75811c83117e0","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/images/header.jpg","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/images/header.jpg?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/8fc57d5c262b4dd1e885de1b44b75811c83117e0","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/images/header.jpg"}},"commit":{"sha":"3b9186f1c7d9bd621d851f58ecbb2cfc6d7a98f8","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjNiOTE4NmYxYzdkOWJkNjIxZDg1MWY1OGVjYmIyY2ZjNmQ3YTk4Zjg=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/3b9186f1c7d9bd621d851f58ecbb2cfc6d7a98f8","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/3b9186f1c7d9bd621d851f58ecbb2cfc6d7a98f8","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:21Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:21Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/images/header.jpg","parents":[{"sha":"955ed450b5238885eded9169775333063de3c77f","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/955ed450b5238885eded9169775333063de3c77f","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/955ed450b5238885eded9169775333063de3c77f"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/images/svg/social-icons.svg to wp-content/themes/receptar/assets/images/svg/social-icons.svg in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"89ed48a9369a75241d92ba8968e0034a99bdcd00","byteSize":43947}}}}
+wp-content/themes/receptar/assets/images/svg/social-icons.svg path exists in GitHub
+Updating wp-content/themes/receptar/assets/images/svg/social-icons.svg in GitHub
+API response code 200
+API response body {"content":{"name":"social-icons.svg","path":"wp-content/themes/receptar/assets/images/svg/social-icons.svg","sha":"89ed48a9369a75241d92ba8968e0034a99bdcd00","size":43947,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/images/svg/social-icons.svg?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/images/svg/social-icons.svg","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/89ed48a9369a75241d92ba8968e0034a99bdcd00","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/images/svg/social-icons.svg","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/images/svg/social-icons.svg?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/89ed48a9369a75241d92ba8968e0034a99bdcd00","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/images/svg/social-icons.svg"}},"commit":{"sha":"81bee2d71492932bf5296a361b1aca97068c30ab","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjgxYmVlMmQ3MTQ5MjkzMmJmNTI5NmEzNjFiMWFjYTk3MDY4YzMwYWI=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/81bee2d71492932bf5296a361b1aca97068c30ab","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/81bee2d71492932bf5296a361b1aca97068c30ab","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:24Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:24Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/images/svg/social-icons.svg","parents":[{"sha":"3b9186f1c7d9bd621d851f58ecbb2cfc6d7a98f8","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/3b9186f1c7d9bd621d851f58ecbb2cfc6d7a98f8","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/3b9186f1c7d9bd621d851f58ecbb2cfc6d7a98f8"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/js/customizer-preview.js to wp-content/themes/receptar/assets/js/customizer-preview.js in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"61ac7939e31c261137bb20f16ac7044fc6974232","byteSize":730}}}}
+wp-content/themes/receptar/assets/js/customizer-preview.js path exists in GitHub
+Updating wp-content/themes/receptar/assets/js/customizer-preview.js in GitHub
+API response code 200
+API response body {"content":{"name":"customizer-preview.js","path":"wp-content/themes/receptar/assets/js/customizer-preview.js","sha":"61ac7939e31c261137bb20f16ac7044fc6974232","size":730,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/js/customizer-preview.js?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/js/customizer-preview.js","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/61ac7939e31c261137bb20f16ac7044fc6974232","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/js/customizer-preview.js","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/js/customizer-preview.js?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/61ac7939e31c261137bb20f16ac7044fc6974232","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/js/customizer-preview.js"}},"commit":{"sha":"09f6475a40faa2fd3fc32bb6db3b36060b65940b","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjA5ZjY0NzVhNDBmYWEyZmQzZmMzMmJiNmRiM2IzNjA2MGI2NTk0MGI=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/09f6475a40faa2fd3fc32bb6db3b36060b65940b","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/09f6475a40faa2fd3fc32bb6db3b36060b65940b","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:26Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:26Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/js/customizer-preview.js","parents":[{"sha":"81bee2d71492932bf5296a361b1aca97068c30ab","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/81bee2d71492932bf5296a361b1aca97068c30ab","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/81bee2d71492932bf5296a361b1aca97068c30ab"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/js/dev/slick.js to wp-content/themes/receptar/assets/js/dev/slick.js in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"6a2a09953cbef4aeba3b447dfb1fcb13fc262c0d","byteSize":88955}}}}
+wp-content/themes/receptar/assets/js/dev/slick.js path exists in GitHub
+Updating wp-content/themes/receptar/assets/js/dev/slick.js in GitHub
+API response code 200
+API response body {"content":{"name":"slick.js","path":"wp-content/themes/receptar/assets/js/dev/slick.js","sha":"6a2a09953cbef4aeba3b447dfb1fcb13fc262c0d","size":88955,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/js/dev/slick.js?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/js/dev/slick.js","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/6a2a09953cbef4aeba3b447dfb1fcb13fc262c0d","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/js/dev/slick.js","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/js/dev/slick.js?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/6a2a09953cbef4aeba3b447dfb1fcb13fc262c0d","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/js/dev/slick.js"}},"commit":{"sha":"5d2f5001e6e6e35eb93b4f16ef10f4d0c40e0298","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjVkMmY1MDAxZTZlNmUzNWViOTNiNGYxNmVmMTBmNGQwYzQwZTAyOTg=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/5d2f5001e6e6e35eb93b4f16ef10f4d0c40e0298","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/5d2f5001e6e6e35eb93b4f16ef10f4d0c40e0298","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:29Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:29Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/js/dev/slick.js","parents":[{"sha":"09f6475a40faa2fd3fc32bb6db3b36060b65940b","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/09f6475a40faa2fd3fc32bb6db3b36060b65940b","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/09f6475a40faa2fd3fc32bb6db3b36060b65940b"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/js/scripts-global.js to wp-content/themes/receptar/assets/js/scripts-global.js in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"8bcf1b77b93c5c74b17f31850ae44dfd65a0fe11","byteSize":2755}}}}
+wp-content/themes/receptar/assets/js/scripts-global.js path exists in GitHub
+Updating wp-content/themes/receptar/assets/js/scripts-global.js in GitHub
+API response code 200
+API response body {"content":{"name":"scripts-global.js","path":"wp-content/themes/receptar/assets/js/scripts-global.js","sha":"8bcf1b77b93c5c74b17f31850ae44dfd65a0fe11","size":2755,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/js/scripts-global.js?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/js/scripts-global.js","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/8bcf1b77b93c5c74b17f31850ae44dfd65a0fe11","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/js/scripts-global.js","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/js/scripts-global.js?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/8bcf1b77b93c5c74b17f31850ae44dfd65a0fe11","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/js/scripts-global.js"}},"commit":{"sha":"d3f62cb06ec588631e284cf465b027cf8bd700ca","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OmQzZjYyY2IwNmVjNTg4NjMxZTI4NGNmNDY1YjAyN2NmOGJkNzAwY2E=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/d3f62cb06ec588631e284cf465b027cf8bd700ca","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/d3f62cb06ec588631e284cf465b027cf8bd700ca","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:32Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:32Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/js/scripts-global.js","parents":[{"sha":"5d2f5001e6e6e35eb93b4f16ef10f4d0c40e0298","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/5d2f5001e6e6e35eb93b4f16ef10f4d0c40e0298","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/5d2f5001e6e6e35eb93b4f16ef10f4d0c40e0298"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/js/skip-link-focus-fix.js to wp-content/themes/receptar/assets/js/skip-link-focus-fix.js in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"678c0130182197b2885041593c85a5127fb0b201","byteSize":816}}}}
+wp-content/themes/receptar/assets/js/skip-link-focus-fix.js path exists in GitHub
+Updating wp-content/themes/receptar/assets/js/skip-link-focus-fix.js in GitHub
+API response code 200
+API response body {"content":{"name":"skip-link-focus-fix.js","path":"wp-content/themes/receptar/assets/js/skip-link-focus-fix.js","sha":"678c0130182197b2885041593c85a5127fb0b201","size":816,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/js/skip-link-focus-fix.js?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/js/skip-link-focus-fix.js","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/678c0130182197b2885041593c85a5127fb0b201","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/js/skip-link-focus-fix.js","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/js/skip-link-focus-fix.js?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/678c0130182197b2885041593c85a5127fb0b201","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/js/skip-link-focus-fix.js"}},"commit":{"sha":"f228dcb86147cb87734887ec3c5bd7a5fea749ec","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OmYyMjhkY2I4NjE0N2NiODc3MzQ4ODdlYzNjNWJkN2E1ZmVhNzQ5ZWM=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/f228dcb86147cb87734887ec3c5bd7a5fea749ec","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/f228dcb86147cb87734887ec3c5bd7a5fea749ec","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:34Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:34Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/js/skip-link-focus-fix.js","parents":[{"sha":"d3f62cb06ec588631e284cf465b027cf8bd700ca","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/d3f62cb06ec588631e284cf465b027cf8bd700ca","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/d3f62cb06ec588631e284cf465b027cf8bd700ca"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/js/slick.min.js to wp-content/themes/receptar/assets/js/slick.min.js in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"42172c2f6ed2f683fe898bdc4291b323ef563312","byteSize":42863}}}}
+wp-content/themes/receptar/assets/js/slick.min.js path exists in GitHub
+Updating wp-content/themes/receptar/assets/js/slick.min.js in GitHub
+API response code 200
+API response body {"content":{"name":"slick.min.js","path":"wp-content/themes/receptar/assets/js/slick.min.js","sha":"42172c2f6ed2f683fe898bdc4291b323ef563312","size":42863,"url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/js/slick.min.js?ref=gh-pages","html_url":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/js/slick.min.js","git_url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/42172c2f6ed2f683fe898bdc4291b323ef563312","download_url":"https://raw.githubusercontent.com/TonTon69/tonton-blog-wp/gh-pages/wp-content/themes/receptar/assets/js/slick.min.js","type":"file","_links":{"self":"https://api.github.com/repos/TonTon69/tonton-blog-wp/contents/wp-content/themes/receptar/assets/js/slick.min.js?ref=gh-pages","git":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/blobs/42172c2f6ed2f683fe898bdc4291b323ef563312","html":"https://github.com/TonTon69/tonton-blog-wp/blob/gh-pages/wp-content/themes/receptar/assets/js/slick.min.js"}},"commit":{"sha":"7201959dbb30a3ec1db7ea485cc9641fb2d6eceb","node_id":"MDY6Q29tbWl0MzI5MDM3NTU0OjcyMDE5NTlkYmIzMGEzZWMxZGI3ZWE0ODVjYzk2NDFmYjJkNmVjZWI=","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/7201959dbb30a3ec1db7ea485cc9641fb2d6eceb","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/7201959dbb30a3ec1db7ea485cc9641fb2d6eceb","author":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:36Z"},"committer":{"name":"TonTon69","email":"hoanghuynh0609@gmail.com","date":"2021-01-12T16:29:36Z"},"tree":{"sha":"79df93c243448049f2f21208f7b93845a8c6c5ed","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/trees/79df93c243448049f2f21208f7b93845a8c6c5ed"},"message":"WP2Static UPDATE wp-content/themes/receptar/assets/js/slick.min.js","parents":[{"sha":"f228dcb86147cb87734887ec3c5bd7a5fea749ec","url":"https://api.github.com/repos/TonTon69/tonton-blog-wp/git/commits/f228dcb86147cb87734887ec3c5bd7a5fea749ec","html_url":"https://github.com/TonTon69/tonton-blog-wp/commit/f228dcb86147cb87734887ec3c5bd7a5fea749ec"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading D:/IT/xampp/htdocs/blog/wp-content/uploads/wp-static-html-output-1610468857/wp-content/themes/receptar/assets/js/vendor/css-vars-ponyfill/css-vars-ponyfill.min.js to wp-content/themes/receptar/assets/js/vendor/css-vars-ponyfill/css-vars-ponyfill.min.js in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"6e8b862ca534563bf488c9f8c399ee8e541688e4","byteSize":18714}}}}
+wp-content/themes/receptar/assets/js/vendor/css-vars-ponyfill/css-vars-ponyfill.min.js path exists in GitHub
+Updating wp-content/themes/receptar/assets/js/vendor/css-vars-ponyfill/css-vars-ponyfill.min.js in GitHub
